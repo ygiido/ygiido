@@ -5,7 +5,6 @@ Pamukkale Üniversitesi'nde öğrenciyim ve boş zamanlarımda Discord botları 
 ### 🚀 Neler Yapıyorum?
 - 🎓 **Eğitim:** Pamukkale Üniversitesi - Laborant ve Veteriner Sağlık (Ön Lisans)
 - 💻 **Geliştirme:** macOS ortamında, Homebrew araçlarıyla aktif olarak Discord botları (Node.js/Discord.js) geliştiriyorum.
-- 🎬 **İçerik Üretimi:** **[Uykusuz Tosba]([LİNK_GELECEK])** projesiyle futbol tarihi, hikayeleri ve detayları üzerine TikTok, IG Reels ve YT Shorts içerikleri üretiyorum.
 
 ### 🛠️ Projelerim & Botlarım
 *   🤖 **[Memur Hüsnü]**: Sunucunun eli ayağı. Moderasyon, kayıt ve temel operasyonları yöneten ana botum.
